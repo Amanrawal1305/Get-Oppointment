@@ -7,7 +7,7 @@ const MyProfile = () => {
 
     const [userData, setUserData] = useState({
         name: "Aman Rawal",
-        image: assets.profile_pic,
+        image: assets.amanpic,
         email: 'amanrawal1305@gmail.com',
         phone: '8851736261',
         address: {
